@@ -1,0 +1,17 @@
+<resources>
+    <style name="Theme.YouniScript" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">@color/youni_forest</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:navigationBarColor">@color/youni_ivory</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:windowBackground">@color/youni_ivory</item>
+    </style>
+
+    <style name="Theme.YouniScript.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/youni_ivory</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/youniscript_splash_lockup</item>
+        <item name="windowSplashScreenAnimationDuration">0</item>
+        <item name="postSplashScreenTheme">@style/Theme.YouniScript</item>
+    </style>
+</resources>

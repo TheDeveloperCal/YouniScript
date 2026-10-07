@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.YouniScript.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/youni_ivory</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/youniscript_splash_lockup</item>
+        <item name="windowSplashScreenAnimationDuration">0</item>
+        <item name="postSplashScreenTheme">@style/Theme.YouniScript</item>
+    </style>
+</resources>
