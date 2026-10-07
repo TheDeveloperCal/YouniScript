@@ -1,5 +1,5 @@
 # YouniScript
-
+<img width="1254" height="1254" alt="youniscript_icon" src="https://github.com/user-attachments/assets/0ebeabeb-b31d-418d-8667-d6fca9fb13c7" />
 **Write what is yours.**
 
 YouniScript is an offline-first personal library for writing, books, journals, memories, and ideas. Your library is stored locally; the app requires no account or internet connection. You choose when to export or back up your work.
